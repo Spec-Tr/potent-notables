@@ -8,7 +8,8 @@ A simple note-taking app that can record a note title and text, and then access 
 
 ## Usage 
 
-Left-click the following link to visit [potent-notables](placeholder) hosted on Heroku, or right click to copy the URL and paste it into your browser. Click the button to enter the app, and enter a note title and text content, before clicking the save note button to save your note, which will appear in the sidebar on the left-hand side of the page on all platforms. Click the red trash can button next to an individual note in the sidebar to delete that note permanently.
+Left-click the following link to visit 
+[potent-notables](https://potent-notables-70e4a607105d.herokuapp.com/ deployed to Heroku) hosted on Heroku, or right click to copy the URL and paste it into your browser. Click the button to enter the app, and enter a note title and text content, before clicking the save note button to save your note, which will appear in the sidebar on the left-hand side of the page on all platforms. Click the red trash can button next to an individual note in the sidebar to delete that note permanently.
 
 ## Technologies
 
