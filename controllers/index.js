@@ -1,10 +1,12 @@
-const express = require("express");
+const express = require(`express`);
 const router = express.Router();
 
-const htmlRoutes = require("./htmlController.js")
+// Connect the routes regarding the HTML pages
+const htmlRoutes = require(`./htmlController`);
 router.use(htmlRoutes);
 
-const dbRoutes = require("./databaseController.js")
-router.use(dbRoutes);
+// Connect the routes regarding the api
+const apiRoutes = require(`./databaseControllers`);
+router.use(`/api/`,apiRoutes);
 
 module.exports = router;
