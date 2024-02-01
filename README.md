@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple note-taking app that can record a note title and text, and then access and delete it later meant to demonstrate usage of Express
+A simple note-taking app that can record a note title and text, and then access and delete it later meant to demonstrate usage of Express and Heroku CLI deployment
 
 ## Usage 
 
@@ -13,7 +13,9 @@ Left-click the following link to visit
 
 ## Technologies
 
+### Heroku
 ### Express
+### Node.js
 ### JavaScript
 ### HTML
 ### CSS
